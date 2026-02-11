@@ -73,6 +73,11 @@ The system contains the following main entities:
 
 ---
 
+## Database ER Diagram
+
+![ER Diagram](docs/er_diagram.png)
+
+
 ## Features
 
 ### Customer Features
