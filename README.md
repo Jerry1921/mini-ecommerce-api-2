@@ -147,7 +147,7 @@ The API follows **RESTful conventions** and uses proper HTTP methods:
 
 ---
 
-## ⚙️ Setup Instructions (Local)
+## Setup Instructions (Local)
 
 ### 1. Clone Repository
 
@@ -181,7 +181,7 @@ http://localhost:8080
 
 ---
 
-## 🐳 Running with Docker
+## Running with Docker
 
 Build image:
 
