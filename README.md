@@ -12,6 +12,11 @@ The project demonstrates secure authentication, role-based authorization, produc
 ```
 https://mini-ecommerce-api-2.onrender.com/
 ```
+Example Endpoint
+
+GET /api/products
+
+https://mini-ecommerce-api-2.onrender.com/api/products
 
 ---
 
