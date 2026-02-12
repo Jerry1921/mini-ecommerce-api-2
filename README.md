@@ -18,6 +18,7 @@ GET /api/products
 
 https://mini-ecommerce-api-2.onrender.com/api/products
 
+(need to register as admin, then login and add product first, then need to use the admin token as token bearer in the authorization)
 ---
 
 ## Tech Stack
